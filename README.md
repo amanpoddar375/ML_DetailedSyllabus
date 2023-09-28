@@ -20,7 +20,7 @@ This repository contains a detailed syllabus for a Machine Learning course, cove
 
 | Chapter Description | Video Links | Blogs |
 |--------------------|-------------|-------|
-| Introduction to Machine Learning | [Video Link](#) | [Blog Link](#) |
+| Introduction to Machine Learning | [StatQuest](https://youtu.be/Gv9_4yMHFhI?si=zVisQlb-8y8-Ly77) , [SimpliLearn](https://youtu.be/ukzFI9rgwfU?si=W36pHKmE_-5HAg4m)| [GeeksforGeek](https://www.geeksforgeeks.org/introduction-machine-learning/) |
 | Workflow | [Video Link](#) | [Blog Link](#) |
 | Data Cleaning | [Video Link](#) | [Blog Link](#) |
 | Prerequisites | [Video Link](#) | [Blog Link](#) |
