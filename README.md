@@ -29,7 +29,7 @@ This repository contains a detailed syllabus for a Machine Learning course, cove
 
 | Chapter Description | Video Links | Blogs |
 |--------------------|-------------|-------|
-| Least Squares (Simple/Multiple Regression) | [Video Link](#) | [Blog Link](#) |
+| Least Squares <li>Simple Regression <li>Multiple Regression | [Video Link](#) | [Blog Link](#) |
 | Gradient Descent (Methods, For LR, Standardization) | [Video Link](#) | [Blog Link](#) |
 | Regression Validation | [Video Link](#) | [Blog Link](#) |
 | Regularization (Ridge, Lasso) | [Video Link](#) | [Blog Link](#) |
