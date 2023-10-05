@@ -23,7 +23,7 @@ This repository contains a detailed syllabus for a Machine Learning course, cove
 | Introduction to Machine Learning | [StatQuest](https://youtu.be/Gv9_4yMHFhI?si=zVisQlb-8y8-Ly77) , [SimpliLearn](https://youtu.be/ukzFI9rgwfU?si=W36pHKmE_-5HAg4m)| [GeeksforGeek](https://www.geeksforgeeks.org/introduction-machine-learning/) |
 | Workflow | [Video Link](#) | [Blog Link](#) |
 | Data Cleaning | [Step-by-Step process](https://www.youtube.com/watch?v=qxpKCBV60U4) , [Full Playlist]( https://youtube.com/playlist?list=PLfP3JxW-T70Gfc0dTOzV55Na6wX9sv3SK&si=aMVEUzP8somiFLpw)| [GeeksforGeek](https://www.geeksforgeeks.org/data-cleansing-introduction/) , [Blog](https://www.v7labs.com/blog/data-cleaning-guide) |
-| Prerequisites | [Video Link](#) | [Blog Link](#) |
+| Prerequisites | [Video Link]() | [Google Free Course](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework), [blog2](https://www.guvi.in/blog/prerequisites-for-machine-learning/), [Edureka](https://www.edureka.co/blog/prerequisites-for-machine-learning/)|
 
 ## Linear Regression
 
