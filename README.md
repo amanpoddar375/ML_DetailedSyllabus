@@ -29,7 +29,7 @@ This repository contains a detailed syllabus for a Machine Learning course, cove
 
 | Chapter Description | Video Links | Blogs |
 |--------------------|-------------|-------|
-| Least Squares <li>Simple Regression <li>Multiple Regression | <li>[simplilearn](https://youtu.be/NUXdtN1W1FE?si=PirZ4Y70GueQbj2F), [Visually Explained](https://youtu.be/CtsRRUddV2s?si=3FW5pb-mumDnTnTG) <li>[Video Link](#)| <li> [Blog Link](#) <li>  [Blog Link](#) ||
+| Least Squares <li>Simple Regression <li>Multiple Regression | <li>[simplilearn](https://youtu.be/NUXdtN1W1FE?si=PirZ4Y70GueQbj2F), [Visually Explained](https://youtu.be/CtsRRUddV2s?si=3FW5pb-mumDnTnTG) <li>[StatQuest](https://youtu.be/EkAQAi3a4js?si=iECXhF99GURnV-kW), [JupyterNotebook](https://youtu.be/WngoqVB6cXw?si=j4vNquIee-5ZQS_O)| <li> [Medium](https://thomasttam.medium.com/simple-and-multiple-linear-regression-for-beginners-c852ffed6700) , []()<li> [GeeksforGeek](https://www.geeksforgeeks.org/multiple-linear-regression-with-scikit-learn/), [machinelearningworks](https://www.machinelearningworks.com/tutorials/multiple-linear-regression) ||
 | Gradient Descent (Methods, For LR, Standardization) | [Video Link](#) | [Blog Link](#) |
 | Regression Validation | [Video Link](#) | [Blog Link](#) |
 | Regularization (Ridge, Lasso) | [Video Link](#) | [Blog Link](#) |
