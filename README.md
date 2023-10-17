@@ -36,7 +36,7 @@ This repository contains a detailed syllabus for a Machine Learning course, cove
 
 ## Logistic Regression
 
-| Chapter Description | Video Links | Blogs |
+| Chapter Description | Video Links | Blog |
 |--------------------|-------------|-------|
 | Classification vs Regression | [Video Link](#) | [Blog Link](#) |
 | Binary Classification (Sigmoid Func, BCE, GD) | [Video Link](#) | [Blog Link](#) |
