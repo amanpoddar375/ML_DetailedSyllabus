@@ -38,7 +38,7 @@ This repository contains a detailed syllabus for a Machine Learning course, cove
 
 | Chapter Description | Video Links | Blog |
 |--------------------|-------------|-------|
-| Classification vs Regression | [Video Link](#) | [Blog Link](#) |
+| Classification vs Regression | [LogisticRegression](https://youtu.be/yIYKR4sgzI8?si=fJq5d6xm5qXrcUQO), [Regression Trees](https://youtu.be/g9c66TUylZ4?si=hx09kQ-rSSFD0wjy) | [Javapoint](https://www.javatpoint.com/regression-vs-classification-in-machine-learning), [GeeksforGeek](https://www.geeksforgeeks.org/ml-classification-vs-regression/), [TutorialsPoint](https://www.tutorialspoint.com/regression-vs-classification-in-machine-learning) |
 | Binary Classification (Sigmoid Func, BCE, GD) | [Video Link](#) | [Blog Link](#) |
 | Multinomial Class (Softmax, CE, GD) | [Video Link](#) | [Blog Link](#) |
 | Module Summary | [Video Link](#) | [Blog Link](#) |
